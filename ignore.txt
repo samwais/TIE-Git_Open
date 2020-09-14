@@ -1,4 +1,0 @@
-Testing GitLab settings. Ignore this file
-.in
-.out
-.pyc
